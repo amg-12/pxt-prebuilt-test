@@ -1,0 +1,29 @@
+{
+    "name": "pxt-prebuilt-test",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "pxt-tutorial": "github:amg-12/pxt-tutorial#e42fb48e0482be6d0c3d9e66667d9d72174b24fc"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.7.28",
+        "tag": "v1.7.28",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/43da08b76c2f6625ff14c4dd6110a975e16396e8",
+        "target": "1.7.28",
+        "pxt": "9.2.8",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
