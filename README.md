@@ -1,3 +1,6 @@
+### @hideIteration true
+### @flyoutOnly true
+
 
 > Open this page at [https://amg-12.github.io/pxt-prebuilt-test/](https://amg-12.github.io/pxt-prebuilt-test/)
 
